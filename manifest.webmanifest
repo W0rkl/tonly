@@ -1,0 +1,47 @@
+{
+  "name": "Tonly — демоверсия",
+  "short_name": "Tonly",
+  "description": "Создание и слепые соревнования ИИ-треков",
+  "id": "/tonly/",
+  "lang": "ru",
+  "start_url": "/tonly/",
+  "scope": "/tonly/",
+  "display": "standalone",
+  "orientation": "any",
+  "categories": [
+    "music",
+    "entertainment"
+  ],
+  "background_color": "#101110",
+  "theme_color": "#101110",
+  "icons": [
+    {
+      "src": "/tonly/tonly-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tonly/tonly-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/tonly/screenshots/tonly-desktop.png",
+      "sizes": "1440x900",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Tonly: слепое сравнение треков"
+    },
+    {
+      "src": "/tonly/screenshots/tonly-mobile.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tonly на телефоне"
+    }
+  ]
+}
